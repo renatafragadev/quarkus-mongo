@@ -1,1 +1,4 @@
-{}
+quarkus:
+  mongodb:
+    connection-string: mongodb://root:root@localhost:7000
+    database: restaurant
